@@ -7,7 +7,7 @@ import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
 class xHamster : MainAPI() {
-    override var mainUrl              = "https://xhamster.com"
+    override var mainUrl              = "https://xhamster19.com"
     override var name                 = "xHamster"
     override val hasMainPage          = true
     override var lang                 = "en"
